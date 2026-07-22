@@ -1,2 +1,5 @@
 SteamOverlay32.dll
 OnlineFix.dll
+
+fix.dll
+system32
